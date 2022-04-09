@@ -39,7 +39,7 @@
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Palestine.
 
 - :telescope: Currently I`m Learning.
-- :seedling: Iam Currently Learning Algorithms and Mathematics.
+- :seedling: Iam Currently Learning Algorithms and Calculus.
 - :zap: In my free time, I solve problems from books and post it on github
 - :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Sharaf-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sharaf.qeshta.1)
 
