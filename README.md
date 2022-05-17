@@ -18,6 +18,7 @@
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sharaf-qeshta&style=flat-square&color=blue" alt=""/>
+  [![](https://tokei.rs/b1/github/XAMPPRocky/tokei)](https://github.com/XAMPPRocky/tokei)
 </div>
 
 
